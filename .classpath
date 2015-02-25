@@ -8,7 +8,7 @@
 	<classpathentry combineaccessrules="false" kind="src" path="/appcompat_v7"/>
 	<classpathentry kind="lib" path="libs/hermit__automaton-1.11-8-android.jar"/>
 	<classpathentry kind="lib" path="libs/hermit__jautomata-core-2.0-android.jar"/>
-	<classpathentry kind="lib" path="libs/owlapi-distribution-3.4.10.jar"/>
 	<classpathentry kind="lib" path="libs/hermit__axiom-1.2.8.jar"/>
+	<classpathentry kind="lib" path="libs/owlapi-distribution-3.4.10.jar"/>
 	<classpathentry kind="output" path="bin/classes"/>
 </classpath>
